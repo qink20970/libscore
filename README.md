@@ -1,0 +1,2 @@
+# libscore
+A Swift framework
